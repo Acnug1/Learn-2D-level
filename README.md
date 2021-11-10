@@ -4,23 +4,20 @@
 <https://disk.yandex.ru/d/tuU7JRDA-aTUgw>
 <br/>
 <br/>
+##### Примеры проектов:
+1. 2D Platformer;
+2. Unity 2D Physics;
+3. HealthBar;
+4. UI.
 ##### Примеры на youtube:
-1. 2D Platformer:
-<br/>
 [![Watch the video](https://img.youtube.com/vi/psGJH5b8qz4/0.jpg)](https://youtu.be/psGJH5b8qz4)
 <br/>
-<br/>
-2. Unity 2D Physics:
 <br/>
 [![Watch the video](https://img.youtube.com/vi/Y6ysb7tgdMg/0.jpg)](https://youtu.be/Y6ysb7tgdMg)
 <br/>
 <br/>
-3. HealthBar:
-<br/>
 [![Watch the video](https://img.youtube.com/vi/D0W5BRhQfjs/0.jpg)](https://youtu.be/D0W5BRhQfjs)
 <br/>
-<br/>
-4. UI:
 <br/>
 [![Watch the video](https://img.youtube.com/vi/hXhyuFt81HY/0.jpg)](https://youtu.be/hXhyuFt81HY)
 <br/>
